@@ -1,6 +1,3 @@
-#// Don't forget to hit SUBSCRIBE, COMMENT, LIKE, COMMENT, and LEARN! ... it's good to learn :)
-
-
 '''imports'''
 import pygeoip
 
